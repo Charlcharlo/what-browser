@@ -1,0 +1,10 @@
+ul {
+  /* text-align: left; */
+  margin: auto;
+  list-style: none;
+}
+
+.main {
+  text-align: center;
+  width: 100vw;
+}
